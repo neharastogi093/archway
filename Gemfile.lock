@@ -41,6 +41,7 @@ GEM
     jdbc-sqlite3 (3.7.2.1)
     jruby-openssl (0.8.8)
       bouncy-castle-java (>= 1.5.0147)
+    json (1.8.0)
     json (1.8.0-java)
     mail (2.2.20)
       activesupport (>= 2.3.6)
@@ -79,6 +80,7 @@ GEM
 
 PLATFORMS
   java
+  ruby
 
 DEPENDENCIES
   activerecord-jdbcsqlite3-adapter
